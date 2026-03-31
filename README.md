@@ -62,9 +62,13 @@ I love writing clean, scalable code and building meaningful applications. Curren
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=casadeblanca&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=casadeblanca&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs" alt="GitHub Stats" width="48%" />
+  <a href="https://github.com/casadeblanca">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=casadeblanca&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
+  </a>
+
+
+  <img src="https://github-readme-stats.vercel.app/api?username=casadeblanca&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs" alt="Casadeblanca's GitHub Stats" width="49%" />
 
 </div>
 
