@@ -61,8 +61,7 @@ I love writing clean, scalable code and building meaningful applications. Curren
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahribyk&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahribyk&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=casadeblanca&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
 
 ### 🎯 Goals & Future Plans
