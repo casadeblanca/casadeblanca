@@ -31,7 +31,7 @@ Hello! I'm **Bahri**, a passionate software developer based in Akhisar, Manisa, 
 I love writing clean, scalable code and building meaningful applications. Currently, I'm focusing on **backend development**, well-designed APIs, and full-stack solutions. I'm always eager to learn new technologies and contribute to the open-source community.
 
 - 🌱 Currently learning: **Next.js 15, TypeScript, NestJS, Docker & Kubernetes**
-- 🔭 Currently working on: [Add your current project or job here]
+- 🔭 Currently working on: https://csbl.lol/
 - 💡 Interests: System design, performance optimization, clean architecture, and AI integrations
 - 📍 Location: Akhisar, Manisa, Turkey
 
